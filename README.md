@@ -1,2 +1,2 @@
-# QuickExitApplication
-a quick exit application
+# personalInteresting
+- a quick exit application
